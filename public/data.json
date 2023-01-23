@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "product_name": "Gitar",
+      "priority": 1,
+      "favorite":true, 
+     "price":1200 ,
+     "bag_count":0,
+     "total_price":0
+    },
+    {
+      "id": 2,
+      "product_name": "Gitar",
+      "priority": 1,
+      "favorite":false,
+      "price":2200 ,
+      "bag_count":0,
+      "total_price":0
+      }, {
+      "id": 3,
+      "product_name": "Çello",
+      "priority": 0,
+      "favorite":false,
+      "price":1200 ,
+      "bag_count":0,
+      "total_price":0
+    },
+    {
+      "id": 4,
+      "product_name": "Çello",
+      "priority": 0,
+      "favorite":false,
+      "price":1200 ,
+      "bag_count":0,
+      "total_price":0
+      }, {
+      "id": 5,
+      "product_name": "Çello",
+      "priority": 0,
+      "favorite":false,
+      "price":4800 ,
+      "bag_count":0,
+      "total_price":0
+    },
+    {
+      "id": 6,
+      "product_name": "Gitar",
+      "priority": 1,
+      "favorite":false,
+      "price":1200 ,
+      "bag_count":0,
+      "total_price":0
+    },
+    {
+      "id": 7,
+      "product_name": "Gitar",
+      "priority": 1,
+      "favorite":false,
+      "price":200 ,
+      "bag_count":0,
+      "total_price":0
+    }  ,  {
+      "id": 8,
+      "product_name": "Keman",
+      "priority": 0,
+      "favorite":false,
+      "price":31200 ,
+      "bag_count":0,
+      "total_price":0
+      }, {
+      "id": 9,
+      "product_name": "Mızıka",
+      "priority": 0,
+      "favorite":false,
+      "price":400 ,
+      "bag_count":0,
+      "total_price":0
+    },
+    {
+      "id": 10,
+      "product_name": "Davul",
+      "priority": 0,
+      "favorite":false,
+      "price":1200 ,
+      "bag_count":0,
+      "total_price":0
+    },
+    {
+      "id": 11,
+      "product_name": "Klarnet",
+      "priority": 1,
+      "favorite":false,
+      "price":200 ,
+      "bag_count":0,
+      "total_price":0
+    }
+
+  ]
